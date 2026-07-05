@@ -31,4 +31,4 @@ const withPWA = require('next-pwa')({
   },
 })
 
-module.exports = withPWA(nextConfig)
+module.exports = withPWA(nextConfig);
