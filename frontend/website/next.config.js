@@ -6,4 +6,4 @@ const nextConfig = {
   // and is silently ignored by the App Router — do not re-add it.
 }
 
-module.exports = nextConfig
+module.exports = nextConfig;
